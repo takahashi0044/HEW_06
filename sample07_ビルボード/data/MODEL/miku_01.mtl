@@ -1,0 +1,13 @@
+# 
+# Wavefront material file
+# Created with Kaydara FBX
+# 
+
+newmtl unnamed
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+illum 2
+Ns 80.000000
+Tr 1.000000
+map_Kd miku_01.png
